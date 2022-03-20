@@ -46,7 +46,6 @@ public class RandomCharacterTest {
                 break;
             }
         }
-
         assertTrue(!flag);
     }
 
