@@ -5,27 +5,27 @@ public class Main {
 
         System.out.println("Lower Case Letters: ");
         for(int i=0;i<15;i++){
-            System.out.print(random.getRandomLowerCaseLetter() + " ");;;
+            System.out.print(random.getRandomLowerCaseLetter() + " ");
         }
 
         System.out.println("\nUpper Case Letters: ");
         for(int i=0;i<15;i++){
-            System.out.print(random.getRandomUpperCaseLetter() + " ");;;
+            System.out.print(random.getRandomUpperCaseLetter() + " ");
         }
 
         System.out.println("\nDigit Characters: ");
         for(int i=0;i<15;i++){
-            System.out.print(random.getRandomDigitCharacter() + " ");;;
+            System.out.print(random.getRandomDigitCharacter() + " ");
         }
 
         System.out.println("\nRandom Characters: ");
         for(int i=0;i<15;i++){
-            System.out.print(random.getRandomCharacter() + " ");;;
+            System.out.print(random.getRandomCharacter() + " ");
         }
 
         System.out.println("\nPrime Numbers: ");
         for(int i=0;i<15;i++){
-            System.out.print(random.getPrime() + " ");;;
+            System.out.print(random.getPrime() + " ");
         }
 
     }
